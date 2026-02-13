@@ -1,0 +1,60 @@
+{
+  "cesp_version": "1.0",
+  "name": "deeprock",
+  "display_name": "Deep Rock Galactic",
+  "version": "1.0.0",
+  "author": { "name": "ZachTaylor99", "github": "ZachTaylor99" },
+  "license": "CC-BY-NC-4.0",
+  "language": "en",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        { "file": "sounds/greeting.mp3", "label": "We fight for Rock and Stone!" },
+        { "file": "sounds/rock_and_stone_to_the_bone.mp3", "label": "Rock and Stone to the bone!" },
+        { "file": "sounds/rock_and_stone.mp3", "label": "Rock and Stone!" }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        { "file": "sounds/for_karl.mp3", "label": "For Karl!" },
+        { "file": "sounds/im_wondering_if_fighting_bugs_and_moving_dirt_is_the_best_way_to_make_a_living.mp3", "label": "I'm wondering if fighting bugs and moving dirt is the best way to make a living." },
+        { "file": "sounds/step_aside_wimps.mp3", "label": "Step aside, wimps!" }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        { "file": "sounds/roooooock_and_stoooone.mp3", "label": "Roooooock and Stoooone!" },
+        { "file": "sounds/HELLOOO.mp3", "label": "Hellooo!" },
+        { "file": "sounds/that_guy_mission_control_he_really_has_a_cozy_job.mp3", "label": "That guy, Mission Control, he really has a cozy job." }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        { "file": "sounds/im_trapped.mp3", "label": "I'm trapped!" },
+        { "file": "sounds/help.mp3", "label": "Help!" },
+        { "file": "sounds/damn_thats_unfortunate.mp3", "label": "Damn, that's unfortunate." }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        { "file": "sounds/MOLLY.mp3", "label": "Molly!" },
+        { "file": "sounds/its_me_ass_wipe.mp3", "label": "It's me, ass wipe!" },
+        { "file": "sounds/karl_would_approve.mp3", "label": "Karl would approve." }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        { "file": "sounds/need_a_hand_here.mp3", "label": "Need a hand here!" },
+        { "file": "sounds/get_me_free.mp3", "label": "Get me free!" },
+        { "file": "sounds/just_take_your_sweet_time_old_lady_ive_got_all_day.mp3", "label": "Just take your sweet time old lady, I've got all day." }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        { "file": "sounds/FUCK.mp3", "label": "Fuck!" },
+        { "file": "sounds/fucking_piece_of.mp3", "label": "Fucking piece of..." },
+        { "file": "sounds/just_show_me_where_to_shoot.mp3", "label": "Just show me where to shoot." }
+      ]
+    }
+  }
+}

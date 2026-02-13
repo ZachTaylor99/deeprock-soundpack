@@ -1,4 +1,4 @@
-# Deep Rock Galactic Sound Pack for Peon-Ping
+# Deep Rock Galactic Sound Pack
 
 A sound pack for [peon-ping](https://github.com/PeonPing/peon-ping) featuring voice lines from Deep Rock Galactic.
 
@@ -6,10 +6,7 @@ A sound pack for [peon-ping](https://github.com/PeonPing/peon-ping) featuring vo
 
 ## Installation
 
-1. Copy the `deeprock` folder to `~/.claude/hooks/peon-ping/packs/`
-2. Run `peon --pack deeprock` to activate
-
-Or clone directly:
+Clone directly to your packs folder:
 ```bash
 git clone https://github.com/ZachTaylor99/deeprock-soundpack.git ~/.claude/hooks/peon-ping/packs/deeprock
 peon --pack deeprock
@@ -30,3 +27,9 @@ peon --pack deeprock
 ## Credits
 
 Audio from Deep Rock Galactic by Ghost Ship Games.
+
+Inspired by [@adamtaylor13](https://github.com/adamtaylor13) - Rock and Stone, brother!
+
+## License
+
+MIT License - See [LICENSE](LICENSE) for details.
